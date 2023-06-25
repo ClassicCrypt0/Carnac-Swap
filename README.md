@@ -53,8 +53,8 @@ The `config.json` file in the `1.02` version folder needs to be updated with you
 }
 ```
 - Replace the `xxxxxxx` and `@xxxxxxx` values with your actual KuCoin API Key, Secret Key, Passphrase, and Telegram bot credentials.
-- `sell_threshold` is the minimum percentage gain for a swap to be considered. The recommended value is `0.4` (0.4%). This accounts for the 0.1% fee for each buy and sell transaction (0.2% in total).
-- `base_amount` and `quote_amount` are the percentages of your USDT balance that will be used for each swap. The recommended value is `"1%"`.
+- `sell_threshold` is the minimum percentage gain for a swap to be considered. The minimum recommended value is `0.5` (0.4%). This accounts for the 0.1% fee for each buy and sell transaction (0.2% in total) and gives a little wiggle room for slippage.
+- `base_amount` and `quote_amount` are the percentages of your COIN balance (not USDT) that will be used for each swap. The recommended value is `"1%"`.
 - `custom_pairs` are the trading pairs that the script will monitor for swaps. They must be in the format `BASE-QUOTE/BASE-QUOTE` and multiple pairs should be comma-delimited with no spaces after the comma.
 - `telegram_bot_token` and `telegram_chat_id` are optional parameters for Telegram bot integration. If you have a Telegram bot, you can enter its token and your chat ID to receive updates from the script.
 
