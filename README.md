@@ -1,6 +1,6 @@
 # Carnac Swap
 
-Carnac Swap is an experimental script for automated trading. This README provides instructions for setting up and using the script.
+Carnac Swap is an experimental script for automated swap trading between virtual crypto pairs on the KuCoin exchange. This README provides instructions for setting up and using the script.
 
 ## DISCLAIMER
 
