@@ -1,0 +1,11 @@
+{
+    "api_key": "YOUR API KEY",
+    "secret_key": "YOUR SECRET KEY",
+    "passphrase": "YOUR API PASSPHRASE",
+    "sell_threshold": 1,
+    "base_amount": "1%",
+    "quote_amount": "1%",
+    "custom_pairs": "LUNC-USDT/USTC-USDT,BTC-USDT/USTC-USDT",
+    "telegram_bot_token": "xxxxxxxxxxx",
+    "telegram_chat_id": "@xxxxxxxx"
+}
