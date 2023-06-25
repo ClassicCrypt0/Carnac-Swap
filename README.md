@@ -10,14 +10,14 @@ The application uses 100% of the USDT in the trading account associated with the
 
 ## Prerequisites
 
-- A [KuCoin](https://www.kucoin.com/) account
+- A [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=rJTVN82) account
 - A KuCoin API with trade-only permissions
 
 ## Setting up KuCoin account and API
 
 Follow these steps to set up a KuCoin account and generate an API with trade-only permissions:
 
-1. Create a KuCoin account [here](https://www.kucoin.com/ucenter/signup).
+1. Create a KuCoin account [here](https://www.kucoin.com/ucenter/signup?rcode=rJTVN82).
 2. Once you've logged in, navigate to your account and click on API Management.
 3. Click on "Create API", set the permissions to "Trade", and complete the verification process.
 4. You will be provided with an API Key, Secret Key, and a Passphrase. Keep these safe, as they will be needed to configure the script.
@@ -97,8 +97,10 @@ Then, you can run the script with the following command:
 
 ## Support
 
-Remember, this script is experimental and should be used at your own risk. If you encounter any issues or have any suggestions, please raise an issue on this GitHub repository.
+Remember, this script is experimental and should be used at your own risk. If you encounter any issues or have any suggestions, please raise an issue on this GitHub repository or reach out via Twitter.
 
-## License
+## Buy me a coffee
 
-This project is licensed under the MIT License.
+If you find this helpful and want to support future development, you can do any of the following:
+- Use my [KuCoin referral link](https://www.kucoin.com/ucenter/signup?rcode=rJTVN82) to sign-up if you don't already have an account.
+- Donate Terra Luna Classic (LUNC) directly to my wallet: terra1u46g3tt03q4ufdjuq7vtajakncv5nq4r07zfh3
