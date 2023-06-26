@@ -35,6 +35,17 @@ Creating a sub-account allows you to separate your funds and trading strategies.
 
 In order for Carnac Swap to successfully execute swaps, you need to ensure that you have at least $50 worth of each coin you wish to trade within your trading account. This is a minimum requirement for the trading process to work properly. Reminder: As with any investment, do not invest more than you are willing to lose while using this application. This is highly experimental.
 
+## Download and Extraction
+
+To get started with Carnac Swap, you first need to download the relevant files. Follow these steps:
+
+1. Click on the `Code` button on the main page of this repository, then click `Download ZIP`.
+2. Once the ZIP file has downloaded, locate it in your system's downloads folder (or wherever you chose to save it).
+3. Right-click on the ZIP file and select `Extract All...` (Windows) or double-click on the ZIP file (MacOS).
+4. Choose a destination for the extracted files and click `Extract`.
+
+After the files have been extracted, you can proceed to configure the script as detailed in the [Configuring the Script](#configuring-the-script) section.
+
 ## Configuring the Script
 
 The `config.json` file in the `1.02` version folder needs to be updated with your KuCoin API information, your chosen settings, and optional Telegram bot credentials.
