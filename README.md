@@ -13,7 +13,9 @@ Carnac Swap is an automated trading script that works on the concept of creating
 
 ## DISCLAIMER
 
-This script is experimental and it is used at the risk of the user. There are no guarantees of profit and no guarantees that there aren't bugs that could cause scenarios where funds could be lost due to unexpected trades. All responsibility is on the user of the script and this is for research and entertainment purposes only.
+This script is experimental and it is used at the risk of the user. There are no guarantees of profit and no guarantees that there aren't bugs that could cause scenarios where funds could be lost due to unexpected trades. All responsibility is on the user of the script and this is for research and entertainment purposes only. While I do my best to test and monitor the performance of this script, it is possible that undiscovered issues exist that could lead to loss of funds (due to fees charged during excessive swapping). Keep a close eye on your trading account and only use coins you are willing to lose.
+
+It's important that you only use coins with Carnac Swap that you believe in long-term. It's possible for one coin to take off in price and swap most of the supply out for the other coins being used. Understanding this risk is important.
 
 The application uses 100% of the USDT in the trading account associated with the API to make swaps, so it is recommended that the user sets up and uses a sub-account to run this application.
 
