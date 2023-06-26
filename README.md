@@ -6,7 +6,7 @@ Carnac Swap is an experimental script for automated swap trading between virtual
 
 Carnac Swap is an automated trading script that works on the concept of creating virtual pairs to monitor price fluctuations. Here are the key points about how it operates:
 
-- **Virtual Pairs and Opportunities:** The script creates virtual pairs of the selected cryptocurrencies and monitors their price fluctuations. When the script discovers a profitable opportunity (based on the thresholds set in the `config.json` file), it automatically executes a swap.
+- **Virtual Pairs and Opportunities:** The script creates virtual pairs of the selected cryptocurrencies and monitors their price fluctuations compared to one another. When the script discovers a profitable opportunity (based on the thresholds set in the `config.json` file), it automatically executes a swap.
 
 - **Accumulation Strategy:** Carnac Swap is designed with an accumulation strategy in mind. The goal is to increase the overall holdings of the cryptocurrency portfolio, not necessarily the fiat value of the portfolio. While this strategy does not directly target fiat profit, increasing your holdings of the crypto coins you use could lead to increased fiat value if the coins increase in value over time.
 
